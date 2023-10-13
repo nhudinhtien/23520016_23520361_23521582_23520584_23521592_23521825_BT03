@@ -1,4 +1,4 @@
 ﻿  Source.cpp
-c:\users\admin\desktop\array\bai039\source.cpp(39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-c:\users\admin\desktop\array\bai039\source.cpp(40): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-  Bai039.vcxproj -> C:\Users\Admin\Desktop\Array\Debug\Bai039.exe
+C:\Users\Asus\OneDrive\Tài liệu\GitHub\Lap-trinh-mang-1-chieu\23520016\Bai039\Source.cpp(39,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\OneDrive\Tài liệu\GitHub\Lap-trinh-mang-1-chieu\23520016\Bai039\Source.cpp(40,12): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Bai039.vcxproj -> C:\Users\Asus\OneDrive\Tài liệu\GitHub\Lap-trinh-mang-1-chieu\23520016\Debug\Bai039.exe

@@ -1,2 +1,12 @@
-﻿  Source.cpp
-  Bai189.vcxproj -> C:\Users\Admin\Desktop\Array\Debug\Bai189.exe
+﻿Source2.obj : error LNK2005: "void __cdecl Nhap(int * const,int &)" (?Nhap@@YAXQAHAAH@Z) already defined in Source1.obj
+Source2.obj : error LNK2005: _main already defined in Source1.obj
+Source3.obj : error LNK2005: "void __cdecl Nhap(int * const,int &)" (?Nhap@@YAXQAHAAH@Z) already defined in Source1.obj
+Source3.obj : error LNK2005: _main already defined in Source1.obj
+Source4.obj : error LNK2005: "void __cdecl InterchangeSort4(int * const,int)" (?InterchangeSort4@@YAXQAHH@Z) already defined in Source3.obj
+Source4.obj : error LNK2005: "void __cdecl Nhap(int * const,int &)" (?Nhap@@YAXQAHAAH@Z) already defined in Source1.obj
+Source4.obj : error LNK2005: _main already defined in Source1.obj
+Source5.obj : error LNK2005: "void __cdecl Nhap(int * const,int &)" (?Nhap@@YAXQAHAAH@Z) already defined in Source1.obj
+Source5.obj : error LNK2005: _main already defined in Source1.obj
+Source6.obj : error LNK2005: "void __cdecl Nhap(int * const,int &)" (?Nhap@@YAXQAHAAH@Z) already defined in Source1.obj
+Source6.obj : error LNK2005: _main already defined in Source1.obj
+C:\Users\Asus\OneDrive\Tài liệu\GitHub\Lap-trinh-mang-1-chieu\23520016\Debug\Bai189.exe : fatal error LNK1169: one or more multiply defined symbols found
