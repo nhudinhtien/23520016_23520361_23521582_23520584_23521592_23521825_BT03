@@ -13,7 +13,7 @@ int main()
 
 	int b[100];
 	int m;
-	NhapB(b, n);
+	NhapB(b, m);
 	cout << "kq la: " << DemCon(a, n, b, m);
 	
 	return 0;
