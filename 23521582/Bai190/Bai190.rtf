@@ -1,0 +1,51 @@
+Phân tích độ phức tạp của thuật toán Interchange sort:
+-  Phiên bản cài đặt 02: 
+	Biến i chạy từ 0 đến n-2
+	Khi i=0, 
+		Biến j chạy từ n-1 giảm đến 1.
+		Có n-1 lần chạy 
+	Khi i=1
+		Biến j chạy từ n-1 giảm đến 2
+		Có n-2 lần chạy
+	......
+	Khi i=k
+		Biến j chạy từ n-1 giảm đến k+1
+		có k-n+3 lần chạy
+
+Tổng số lần chạy là: n*(n-1)/2.
+- Phiên bản cái đặt 03:
+	Biến i chạy từ n-1 giảm đến bằng 1
+	khi i=n-1
+		Biến j chạy từ 0 đến n-2
+		có n-1 lần chạy
+	khi i=n-2
+		biến j chạy từ 0 đến n-3
+		có n-2 lần chạy 
+	khi i=n-3
+		biến j chạy từ 0 đến n-4
+		có n-3 lần chạy
+Tổng số lần chạy là:  (n - 1) + (n - 2) + ... + 2 + 1 = n * (n - 1) / 2
+- Phiên bản cài đặt 04
+	biến i chạy từ n-1 giảm đến bằng 1
+	khi i=n-1
+		biến j chạy từ n-2 giảm đến bằng 0
+		có n-1 lần chạy
+	khi i=n-2
+		biến j chạy từ n-3 giảm đến bằng 0
+		có n-2 lần chạy
+	khi i=n-3 
+		biện chạy từ n-4 đến bằng 0
+		có n-3 lần chạy
+Tồng số lần chạy là: (n - 1) + (n - 2) + ... + 2 + 1 = n * (n - 1) / 2
+- Phiên bản cài đặt 05: 
+	biến i chạy từ 0 đến n-2
+	khi i=0
+		biến j chạy từ n-1 giảm đến bằng 1
+		có n-1 lần chạy
+	khi i=1
+		biến j chạy từ n-1 giảm đến bằng 2
+		có n-2 lần chạy
+	khi i=2
+		biến j chạy từ n-1 giảm đến bằng 3
+		có n-3 lần chạy
+Tổng số lần chạy là: (n - 1) + (n - 2) + ... + 2 + 1 = n * (n - 1) / 2
