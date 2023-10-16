@@ -1,0 +1,4 @@
+﻿  Bai172.cpp
+F:\daihoc\NMLT\code\mảng 1 chiều (bài nhóm)\Mảng 1 chiều\Bai172\Bai172.cpp(24,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\daihoc\NMLT\code\mảng 1 chiều (bài nhóm)\Mảng 1 chiều\Bai172\Bai172.cpp(28,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Bai172.vcxproj -> F:\daihoc\NMLT\code\mảng 1 chiều (bài nhóm)\Mảng 1 chiều\x64\Debug\Bai172.exe
